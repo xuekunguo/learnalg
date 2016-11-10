@@ -1,0 +1,8 @@
+Debug/
+exe/
+temp/
+ipch/
+*.opensdf
+*.swp
+*.sdf
+*.suo

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnAlg", "LearnAlg\LearnAlg.vcxproj", "{DCF6F71A-DA64-4DA4-97BA-833F16989EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF6F71A-DA64-4DA4-97BA-833F16989EC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCF6F71A-DA64-4DA4-97BA-833F16989EC4}.Debug|Win32.Build.0 = Debug|Win32
+		{DCF6F71A-DA64-4DA4-97BA-833F16989EC4}.Release|Win32.ActiveCfg = Release|Win32
+		{DCF6F71A-DA64-4DA4-97BA-833F16989EC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
